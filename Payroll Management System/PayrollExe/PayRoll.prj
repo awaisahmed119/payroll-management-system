@@ -1,0 +1,42 @@
+%%Excelsior JET v11.3 project file
+
+-compilewithfixedheap-
+-genstackalloc+
+-genstacktrace-
+-global-
+-gui+
+-ignoreclassduplication+
+-ignorememberabsence+
+-inline+
+-jetcpenablemanualsettings+
+-multiapp-
+-splashgetfrommanifest-
+
+-apptype=Plain
+-classabsence=HANDLE
+-compilerheap=1744830464
+-inlinelimit=100
+-inlinetolimit=1000
+-jetcplastpage:=PageCompile
+-jetrt=Desktop
+-jetvmprop=-Djet.gc.heaplimit:0 -Djet.stack.trace
+-main=javaapplication1/JavaApplication1
+-outputdir=.
+-outputname=PayRoll
+-saprofmode=JETCPONLY
+-saproftimeout=20
+-splash=F:/Semesters/internship/project/background/payroll_shot_splash.png
+-stacklimit=900000
+-startupprofile=./PayRoll.startup
+
+
+
+
+!classpathentry ../../Documents/NetBeansProjects/JavaApplication1/store/JavaApplication1.jar
+  -pack=noncompiled
+  -protect=all
+  -optimize=all
+!end
+
+!module ./ico.ico
+

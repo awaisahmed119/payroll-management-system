@@ -1,0 +1,7 @@
+Implementation Folder:
+	-A zipped file that contains the code of the application
+	-mySql script which contains the database
+	-Netbeans IDE is used
+	-Import the project as zip
+	-Run the script in mysql and setup the database connection
+	-Run the project

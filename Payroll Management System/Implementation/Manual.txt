@@ -1,0 +1,19 @@
+User manual.
+This project is developed by the following Group of SE section D:
+	Awais Ahmed 14-4236
+	Waleed tariq 14-4065
+	Huzaifah Asad 14-4083
+	Zargham Khaliq 14-4160
+	Hamza Rasheed  14-4215
+ 
+Implementation Folder:
+	-A JavaApplication1 folder that contains the code of the application
+	-mySql script which contains the database
+	-Netbeans IDE is used
+	-Import the project(JavaApplication1) into IDE
+	-Run the script in mysql and setup the database connection
+	-Run the project
+
+code info:
+All the classes are in packages in src folder. there are multiple packages in src folder like
+ALlowances,Deductions,Forms etc.

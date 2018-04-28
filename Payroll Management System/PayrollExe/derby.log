@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jun 06 02:17:58 PKT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-015c-7a1f-1dda-0000009c3f58 
+on database directory E:\payroll\src\database\payroll with class loader sun.misc.Launcher$AppClassLoader@804a0120 
+Loaded from file:/E:/payroll/JavaApplication1.jar
+java.vendor=Sun-Oracle Java licensee: Excelsior LLC
+java.runtime.version=1.8.0_101-_2016_07_18_04_28-b00
+user.dir=E:\payroll
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
